@@ -1,0 +1,1 @@
+import{_ as s,c as a,a as o,o as t}from"./index-C23T03Zw.js";const n={name:"ReportAnalysisPage"};function r(c,e,p,l,d,_){return t(),a("div",null,e[0]||(e[0]=[o("h1",null,"报告分析",-1)]))}const f=s(n,[["render",r],["__scopeId","data-v-d3599780"]]);export{f as default};

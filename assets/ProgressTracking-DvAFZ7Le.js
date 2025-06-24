@@ -1,0 +1,1 @@
+import{_ as a,c as r,a as s,o}from"./index-C23T03Zw.js";const n={name:"ProgressTrackingPage"};function t(c,e,d,p,_,l){return o(),r("div",null,e[0]||(e[0]=[s("h1",null,"进展跟踪",-1)]))}const f=a(n,[["render",t],["__scopeId","data-v-d61e463a"]]);export{f as default};
