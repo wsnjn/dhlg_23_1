@@ -1,0 +1,1 @@
+import{_ as e,c as t,a as n,o}from"./index-C23T03Zw.js";const s={name:"RehabilitationPlanPage"};function r(l,a,c,i,d,p){return o(),t("div",null,a[0]||(a[0]=[n("h1",null,"康复计划",-1)]))}const f=e(s,[["render",r],["__scopeId","data-v-847df9a4"]]);export{f as default};
